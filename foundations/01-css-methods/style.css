@@ -9,16 +9,3 @@ div {
     text-align: center;
     background-color: #c44601;
 }
-
-p, button {
-    color: white;
-    font-size: 18px;
-}
-
-p {
-    background-color: #00bf7d;
-}
-
-button {
-    background-color: #f57600;
-}
