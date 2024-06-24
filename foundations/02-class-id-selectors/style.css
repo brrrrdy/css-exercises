@@ -1,0 +1,19 @@
+.oddClass, p {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #f8b8d0;
+}
+
+.four {
+    background-color: #00bf7d;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#bigBlue {
+    font-size: 36px;
+    color: #0073e6;
+}
+
+#three {
+    font-size: 24px;
+}
